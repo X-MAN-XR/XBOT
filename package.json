@@ -1,8 +1,8 @@
 {
-    "name": "YOURBOT",
+    "name": "CHANDBYPASSBOT",
     "version": "0.0.1",
-    "description": "XBOT IS MESSANGER CHATBOT",
-    "main": "XMAN.js",
+    "description": "Facebook Messenger Bot .",
+    "main": "X-MAN.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
@@ -12,7 +12,7 @@
         "type": "git",
         "url": "git+https://github.com/X-MAN-XR/XBOT.git"
     },
-    "author": "X-MAN",
+    "author": "MR-CHAND",
     "license": "GPL-3.0",
     "dependencies": {
         "@miraipr0ject/assets": "",
@@ -64,4 +64,4 @@
         "totp-generator": "",
         "ytdl-core": "^4.11.2"
     }
-    }
+}
