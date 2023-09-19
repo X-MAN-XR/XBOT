@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/X-MAN_XR/XBOT.git"
+        "url": "git+https://github.com/X-MAN-XR/XBOT.git"
     },
     "author": "X-MAN",
     "license": "GPL-3.0",
